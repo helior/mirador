@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Configuration",
+        "repositoryURL": "https://github.com/IBM-Swift/Configuration.git",
+        "state": {
+          "branch": null,
+          "revision": "20e2167fc80a039e3ee75ff3940c19c71084395e",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "LoggerAPI",
+        "repositoryURL": "https://github.com/IBM-Swift/LoggerAPI.git",
+        "state": {
+          "branch": null,
+          "revision": "6b62fe66da9b8794d6581e5c341710eea3173cd4",
+          "version": "1.7.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
